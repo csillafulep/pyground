@@ -2,7 +2,8 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-from point import *
+from classes.point import *
+from image.csincsimage import *
 
 p = Point(1, 2)
 
